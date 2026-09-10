@@ -64,7 +64,7 @@ record yourself, or just scribble notes as you go, even better.
 
 ## Where to send it
 
-**[Discord](https://discord.gg/GatAGBg5da)** — quickest, and you do not need a
+**[Discord](https://discord.gg/rnsWQQv5Qa)** — quickest, and you do not need a
 GitHub account.
 
 Once you are in, post in **#game-testing**. It is a forum channel, so please
