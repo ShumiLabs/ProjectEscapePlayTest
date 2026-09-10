@@ -64,7 +64,16 @@ record yourself, or just scribble notes as you go, even better.
 
 ## Where to send it
 
-**[Discord](https://discord.gg/GatAGBg5da)** — quickest, and you do not need a GitHub account.
+**[Discord](https://discord.gg/GatAGBg5da)** — quickest, and you do not need a
+GitHub account.
+
+Once you are in, post in **#game-testing**. It is a forum channel, so please
+**start your own thread** rather than adding to somebody else's — one thread per
+person keeps each account of playing readable end to end, which is most of what
+makes this useful.
+
+A good thread is one post when you finish saying what you did, and separate ones
+for anything that broke. Do not tidy it up; half-formed is fine.
 
 Or open an [issue](../../issues) if you would rather.
 
